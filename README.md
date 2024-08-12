@@ -1,5 +1,5 @@
 # 🌐 Cloudflare DDNS Updater
-;
+
 This Bash script automates the process of updating a DNS A record on Cloudflare with the current public IP address of the machine it's running on. It utilizes the Cloudflare API to perform the update.
 
 ## Prerequisites
