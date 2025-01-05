@@ -24,4 +24,4 @@ Before using this script, make sure you have the following:
 - The script will log updates and errors using the system logger.
 - Optional notifications can be configured for Slack and Discord.
 
-🔔 Happy updating your DNS records with Cloudflare!
+🔔 Happy updating your DNS records with Cloudflare!.
